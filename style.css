@@ -23,10 +23,10 @@ body {
 	margin: auto;
 	border-style: solid;
 	border-width: 0 155px 150px 155px;
-	border-image-source: url("images/backer2.png");
-	background-image: url("images/black.jpg");
+/*      border-image-source: url("images/backer2.png");
+	background-image: url("images/black.jpg"); 
 	border-image-slice: 0 165 160 165;
-	border-image-repeat: round; }
+	border-image-repeat: round; } /*
 
 nav {
 	font-weight: normal;
@@ -35,7 +35,7 @@ nav {
 	text-align: right;
 	font-size: 2em;
 	background-color: #403A1D;
-	background: linear-gradient(45deg, rgba(240,141,70,1) 0%, rgba(161,64,89,1) 35%, rgba(35,66,107,1) 65%, rgba(35,48,68,1) 100%) } 
+	background: linear-gradient(45deg, rgba(0,0,0,1) 0%,rgba(255,255,255,1) 100%) } 
 
 a, h1, h2, h3, h4, h5, h6 { font-family: "Avant Garde", Helvetica, Arial, sans-serif; }
 nav a { color: white; filter: drop-shadow(4px 4px 4px #352508); } 
